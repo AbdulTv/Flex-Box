@@ -1,0 +1,54 @@
+.box {
+    width: 558px;
+    height: 450px;
+    background-color: brown;
+    color: #ffffff;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+}
+
+.text1 {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 35px
+}
+
+.text2 {
+    width: 558px;
+    height: 77px;
+    color: black;
+    margin: 0 auto;
+}
+
+.father {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+.text3 {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 35px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.Otasi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
